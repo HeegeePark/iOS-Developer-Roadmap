@@ -46,16 +46,16 @@ Roadmap of essential topics. Roadmap for all topics is [here.](RoadmapProject/Sc
 
 
 ## ☑️ TODO
-- [x] content file with topics and materials
-- [x] ability to generate README.md from the content file
-- [x] ability to generate Roadmap tree image from the content file
+- [ ] content file with topics and materials
+- [ ] ability to generate README.md from the content file
+- [ ] ability to generate Roadmap tree image from the content file
 - [ ] make generation script less miserable:
-	- [x] make it readable 🤦
+	- [ ] make it readable 🤦
 	- [ ] output Yaml format violation errors
 	- [ ] handle errors of parsing Yaml into Topics and Resources
 	- [ ] handle file read/write errors
 	- [ ] handle image generation errors
-- [x] automatic regeneration of roadmap after every commit
+- [ ] automatic regeneration of roadmap after every commit
 - [ ] automatic validation of content format on PR
 - [ ] make sure Travis doesn't deploy if generation script fails
 
